@@ -4,3 +4,5 @@ pyautogui==0.9.54
 selenium==3.141.0
 google-auth==2.3.3
 google-auth-oauthlib==0.4.6
+gunicorn==20.1.0
+
